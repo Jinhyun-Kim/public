@@ -17,8 +17,14 @@ install.packages("tidyr")
 install.packages("ggplot2")
 install.packages("dplyr")</code></pre>
 
-### 1.3. 주의
+### 1.4. 주의
 * dRAST실험 진행시 이미지 파일들이 저장되도록 세팅하여 실험진행
 * dRAST이미지가 한국가 없는 경로에 저장되어있어야함
 * Recommened folderName
 <pre><code>YYYYMMDD PanelLotNumber KIT/DRY(re) S17/E19</code></pre>
+
+## 2. Usage
+* QCdataAnalyzer.exe 실행
+* Add Sample 버튼 클릭 -> QC데이터가 포함된 폴더 선택
+* Make QC Report 버튼 클릭 -> 결과를 출력할 폴더 선택
+* Create Plot버튼 클릭
