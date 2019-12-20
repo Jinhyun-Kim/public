@@ -10,14 +10,14 @@
 <pre><code>C:\Program Files\R\R-3.5.2\bin\x64</code></pre>
 ### 1.3. install R libary
 * open R x64 3.5.2
-* enter following commends to install library
+* Enter following commends to install library (Select CRAN mirror : Korea or nearby country)
 <pre><code>install.packages("stringr")
 install.packages("pracma")
 install.packages("tidyr")
 install.packages("ggplot2")
 install.packages("dplyr")</code></pre>
-
-### 1.4. 주의
+### 1.4 reboot PC
+### 1.5. 주의
 * dRAST실험 진행시 이미지 파일들이 저장되도록 세팅하여 실험진행
 * dRAST이미지가 한국가 없는 경로에 저장되어있어야함
 * Recommened folderName
