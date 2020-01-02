@@ -9,7 +9,7 @@
 * 변수값 Path를 찾아서 더블클릭 -> 아래 값을 추가
 <pre><code>C:\Program Files\R\R-3.5.2\bin\x64</code></pre>
 ### 1.3. install R libary
-* open R x64 3.5.2
+* R x64 3.5.2를 관리자 권한으로 실행
 * Enter following commends to install library (Select CRAN mirror : Korea or nearby country)
 <pre><code>install.packages("stringr")
 install.packages("pracma")
