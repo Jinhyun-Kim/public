@@ -16,8 +16,10 @@ install.packages("pracma")
 install.packages("tidyr")
 install.packages("ggplot2")
 install.packages("dplyr")</code></pre>
-### 1.4 reboot PC
-### 1.5. 주의
+### 1.4 install Visual C++ 2013 Redistributable x86 
+* [link](https://www.microsoft.com/ko-kr/download/details.aspx?id=40784)
+### 1.5 reboot PC
+### 1.6. 주의
 * dRAST실험 진행시 이미지 파일들이 저장되도록 세팅하여 실험진행
 * dRAST이미지가 한국가 없는 경로에 저장되어있어야함
 * Recommened folderName
