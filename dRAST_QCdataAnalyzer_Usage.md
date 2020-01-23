@@ -6,8 +6,12 @@
 * install with default setting
 ### 1.2. envrironment variable setting
 * 내 PC (우클릭) -> 속성 -> 고급 시스템 설정 -> 고급 탭 -> 환경변수 -> 사용자 변수
-* 변수값 Path를 찾아서 더블클릭 -> 아래 값을 추가
+- 사용자 변수에서 변수값 Path를 찾아서 더블클릭 -> 새로만들기 -> 아래 값을 추가
 <pre><code>C:\Program Files\R\R-3.5.2\bin\x64</code></pre>
+- 사용자 변수  -> 새로 만들기 -> 아래 값을 추가
+<pre><code>변수 이름 : R_LIBS 
+변수 값 : C:/Program Files/R/R-3.5.2/library</code></pre>
+
 ### 1.3. install R libary
 * R x64 3.5.2를 관리자 권한으로 실행
 * Enter following commends to install library (Select CRAN mirror : Korea or nearby country)
