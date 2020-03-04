@@ -25,6 +25,7 @@ install.packages("dplyr")</code></pre>
 * Or by executing vcredist_x86.exe
 ### 1.5 reboot PC
 ### 1.6. 주의
+* 도스창이 블럭선택될시 프로그램이 멈춤. 이때에 엔터를 쳐서 블럭선택을 제거해주어야 함.
 * dRAST실험 진행시 이미지 파일들이 저장되도록 세팅하여 실험진행
 * dRAST이미지가 한국가 없는 경로에 저장되어있어야함
 * dRAST 데이터 폴더 내에 .sample.dat파일이 없으면 작동하지 않음
