@@ -15,7 +15,8 @@
 ### 1.3. install R libary
 * R x64 3.5.2를 관리자 권한으로 실행
 * Enter following commends to install library (Select CRAN mirror : Korea or nearby country)
-<pre><code>install.packages("stringr")
+<pre><code>install.packages("pillar")
+install.packages("stringr")
 install.packages("pracma")
 install.packages("tidyr")
 install.packages("ggplot2")
